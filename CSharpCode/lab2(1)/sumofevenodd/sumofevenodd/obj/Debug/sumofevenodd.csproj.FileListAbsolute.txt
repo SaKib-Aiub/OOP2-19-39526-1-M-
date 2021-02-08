@@ -1,0 +1,6 @@
+G:\Sem 07\Oop2Csharp(M)\CSharpCode\sumofevenodd\sumofevenodd\bin\Debug\sumofevenodd.exe.config
+G:\Sem 07\Oop2Csharp(M)\CSharpCode\sumofevenodd\sumofevenodd\bin\Debug\sumofevenodd.exe
+G:\Sem 07\Oop2Csharp(M)\CSharpCode\sumofevenodd\sumofevenodd\bin\Debug\sumofevenodd.pdb
+G:\Sem 07\Oop2Csharp(M)\CSharpCode\sumofevenodd\sumofevenodd\obj\Debug\sumofevenodd.csprojResolveAssemblyReference.cache
+G:\Sem 07\Oop2Csharp(M)\CSharpCode\sumofevenodd\sumofevenodd\obj\Debug\sumofevenodd.exe
+G:\Sem 07\Oop2Csharp(M)\CSharpCode\sumofevenodd\sumofevenodd\obj\Debug\sumofevenodd.pdb

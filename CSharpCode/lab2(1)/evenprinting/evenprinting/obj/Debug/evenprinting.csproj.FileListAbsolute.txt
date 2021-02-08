@@ -1,0 +1,6 @@
+G:\Sem 07\Oop2Csharp(M)\CSharpCode\evenprinting\evenprinting\bin\Debug\evenprinting.exe.config
+G:\Sem 07\Oop2Csharp(M)\CSharpCode\evenprinting\evenprinting\bin\Debug\evenprinting.exe
+G:\Sem 07\Oop2Csharp(M)\CSharpCode\evenprinting\evenprinting\bin\Debug\evenprinting.pdb
+G:\Sem 07\Oop2Csharp(M)\CSharpCode\evenprinting\evenprinting\obj\Debug\evenprinting.csprojResolveAssemblyReference.cache
+G:\Sem 07\Oop2Csharp(M)\CSharpCode\evenprinting\evenprinting\obj\Debug\evenprinting.exe
+G:\Sem 07\Oop2Csharp(M)\CSharpCode\evenprinting\evenprinting\obj\Debug\evenprinting.pdb

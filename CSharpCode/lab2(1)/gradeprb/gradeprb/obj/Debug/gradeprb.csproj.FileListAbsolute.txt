@@ -1,0 +1,5 @@
+G:\Sem 07\Oop2Csharp(M)\CSharpCode\gradeprb\gradeprb\bin\Debug\gradeprb.exe.config
+G:\Sem 07\Oop2Csharp(M)\CSharpCode\gradeprb\gradeprb\bin\Debug\gradeprb.exe
+G:\Sem 07\Oop2Csharp(M)\CSharpCode\gradeprb\gradeprb\bin\Debug\gradeprb.pdb
+G:\Sem 07\Oop2Csharp(M)\CSharpCode\gradeprb\gradeprb\obj\Debug\gradeprb.exe
+G:\Sem 07\Oop2Csharp(M)\CSharpCode\gradeprb\gradeprb\obj\Debug\gradeprb.pdb
