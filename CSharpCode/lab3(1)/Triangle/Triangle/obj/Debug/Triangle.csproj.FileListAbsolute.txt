@@ -1,0 +1,1 @@
+G:\Sem 07\Oop2Csharp(M)\CSharpCode\Triangle\Triangle\bin\Debug\Triangle.exe.config

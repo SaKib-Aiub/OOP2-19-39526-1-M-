@@ -1,0 +1,2 @@
+G:\Sem 07\Oop2Csharp(M)\CSharpCode\Student\Student\bin\Debug\Student.exe.config
+G:\Sem 07\Oop2Csharp(M)\CSharpCode\Student\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
